@@ -2,4 +2,4 @@ pytest
 requests 
 fastapi 
 uvicorn 
-httpx
+httpx2
